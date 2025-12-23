@@ -57,7 +57,6 @@ Passionate about building practical, backend-focused web applications and contin
 
 [![LinkedIn Badge](https://img.shields.io/badge/-Vikas%20Bachpalle-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vikas-bachpalle-53547b383)  
 [![GitHub Badge](https://img.shields.io/badge/-vikasbachpalle-black?style=flat&logo=github)](https://github.com/vikasbachpalle)  
-[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-1DA1F2?style=flat&logo=google-chrome&logoColor=white)](https://vikasbachpalle.github.io)  
 [![Gmail Badge](https://img.shields.io/badge/-vikasbachpalle18@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:vikasbachpalle18@gmail.com)
 
 ---
