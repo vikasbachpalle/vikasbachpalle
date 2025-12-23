@@ -1,27 +1,40 @@
-# 👋 Hi, I'm Vikas Bachpalle  
+#👋 Hi, I'm Vikas Bachpalle  
 
-💻 **Full Stack Software Developer** | Passionate about creating clean, scalable, and efficient web applications.  
-I love turning ideas into reality using technology and continuously learning new tools & frameworks.  
-
----
-
-## 🚀 About Me  
-
-- 🌱 Exploring **AI-integrated Web Apps** and modern UI/UX designs  
-- 💡 Skilled in **Full Stack Development** using Python, Django & React  
-- 🔧 Experienced with **Git, GitHub, REST APIs, and Databases**  
-- 🧠 Lifelong learner focused on improving coding logic & problem solving  
-- 💬 Love reading about new software trends and experimenting with tech  
+Aspiring Python & Django Developer | Fresher  
+Passionate about building practical, backend-focused web applications and continuously improving my problem-solving skills. 
 
 ---
 
-## 🧠 Technical Skills  
+## 👨‍💻 About Me
+- 🌱 Currently focusing on Python, Django, and backend development
+- 🧠 Strong interest in understanding **how things work internally**, not just UI
+- 🛠️ Experienced in building CRUD-based and real-world Django projects
+- 🎨 UI designs are inspired by modern templates/tools; **core logic, backend, and integrations are implemented by me**
+- 📈 Actively learning and improving through hands-on projects
 
-**Frontend:** HTML, CSS, JavaScript, React  
-**Backend:** Python, Django  
-**Database:** MySQL, SQLite3  
-**Version Control:** Git, GitHub  
-**Tools:** VS Code, Streamlit, Plotly  
+---
+
+## 🧠 🧠 Technical Skills
+
+**Backend**
+- Python  
+- Django  
+- Django REST Framework (basic understanding)
+
+**Frontend**
+- HTML, CSS  
+- JavaScript  
+- React (basic)
+
+**Database**
+- SQLite  
+- Sqlserver  
+
+**Tools & Technologies**
+- Git & GitHub  
+- VS Code  
+- pycharm  
+  
 
 ---
 
@@ -33,7 +46,13 @@ I love turning ideas into reality using technology and continuously learning new
 - Time Management ⏳  
 
 ---
+## 🚀 Featured Projects
+- 🩸 **LifeSaver – Blood Donor Management System**  
+  Django-based application with donor registration, search, and management features.
 
+- 👨‍💼 **Employee Management System**  
+  CRUD-based Django project demonstrating forms, validations, database operations, and clean project structure.
+  
 ## 🌐 Connect With Me  
 
 [![LinkedIn Badge](https://img.shields.io/badge/-Vikas%20Bachpalle-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vikas-bachpalle-53547b383)  
